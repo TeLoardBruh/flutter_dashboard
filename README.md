@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+[Resources Link](https://www.youtube.com/watch?v=i6gFRSnE6Ro)
+
 ## UI
 
 ![Large Screen](https://raw.githubusercontent.com/TeLoardBruh/flutter_dashboard/master/assets/images/large_screen.png)
