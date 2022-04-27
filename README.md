@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+## UI
+
+![Large Screen](https://raw.githubusercontent.com/TeLoardBruh/flutter_dashboard/master/assets/images/large_screen.png)
+
+![Medium Screen](https://raw.githubusercontent.com/TeLoardBruh/flutter_dashboard/master/assets/images/medium_screen.png)
+
+![Small Screen](https://raw.githubusercontent.com/TeLoardBruh/flutter_dashboard/master/assets/images/small_screen.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
